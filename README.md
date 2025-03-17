@@ -6,7 +6,7 @@
 
 ---
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardo&show_icons=true&theme=radical)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosEduardo-Rodrigues-Nogueira-Dantas&show_icons=true&theme=radical)
 
 ### 💻 Tecnologias que utilizo no meu dia a dia
 
@@ -27,6 +27,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardo-Rodrigues-Nogueira-Dantas&layout=compact&theme=radical)
 
 📚 Apaixonado por tecnologia, educação e por transformar vidas através da programação! ✨
