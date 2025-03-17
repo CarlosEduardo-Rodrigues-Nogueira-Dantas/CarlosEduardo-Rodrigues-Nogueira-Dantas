@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-rodrigues-nogueira-dantas-788a85238/?trk=opento_sprofile_topcard) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kadu_rodrigues10/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://outlook.live.com/mail/0/)
+[![Gmail](https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)](https://outlook.live.com/mail/0/)
 
 ---
 
